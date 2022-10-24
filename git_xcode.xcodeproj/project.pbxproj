@@ -13,6 +13,8 @@
 		FA54E24E2906E9A6006C91EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA54E24C2906E9A6006C91EA /* Main.storyboard */; };
 		FA54E2502906E9A7006C91EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA54E24F2906E9A7006C91EA /* Assets.xcassets */; };
 		FA54E2532906E9A7006C91EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA54E2512906E9A7006C91EA /* LaunchScreen.storyboard */; };
+		FA54E25C2906EA13006C91EA /* 2-19-scaled.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA54E25A2906EA13006C91EA /* 2-19-scaled.jpeg */; };
+		FA54E25D2906EA13006C91EA /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA54E25B2906EA13006C91EA /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FA54E24F2906E9A7006C91EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA54E2522906E9A7006C91EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA54E2542906E9A7006C91EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA54E25A2906EA13006C91EA /* 2-19-scaled.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2-19-scaled.jpeg"; sourceTree = "<group>"; };
+		FA54E25B2906EA13006C91EA /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				FA54E24F2906E9A7006C91EA /* Assets.xcassets */,
 				FA54E2512906E9A7006C91EA /* LaunchScreen.storyboard */,
 				FA54E2542906E9A7006C91EA /* Info.plist */,
+				FA54E25A2906EA13006C91EA /* 2-19-scaled.jpeg */,
+				FA54E25B2906EA13006C91EA /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg */,
 			);
 			path = git_xcode;
 			sourceTree = "<group>";
@@ -127,6 +133,8 @@
 			files = (
 				FA54E2532906E9A7006C91EA /* LaunchScreen.storyboard in Resources */,
 				FA54E2502906E9A7006C91EA /* Assets.xcassets in Resources */,
+				FA54E25D2906EA13006C91EA /* depositphotos_144786235-stock-photo-splash-milk-isolated-3d-rendering.jpeg in Resources */,
+				FA54E25C2906EA13006C91EA /* 2-19-scaled.jpeg in Resources */,
 				FA54E24E2906E9A6006C91EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
